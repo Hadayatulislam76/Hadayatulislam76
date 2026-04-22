@@ -18,11 +18,11 @@
 
 ## 📜 Certifications
 
-- 🏅 Cisco CCNA — valid until March 2028
-- 🖥️ VMware vSphere ESXi & vCenter Administration (Udemy, 2026)
+- 🏅 Cisco Certified Network Associate (CCNA Routing & Switching) — valid until March 2028
+- 🖥️ Complete VMWare vSphere ESXi and vCenter Administration
 - 🔐 Fortinet Certified Associate in Cybersecurity — valid until April 2027
 - 🔐 Fortinet Certified Fundamentals in Cybersecurity — valid until April 2027
-- ☁️ AWS SAA-C03 — in progress
+- ☁️ Ultimate AWS Certified Solutions-Architect (Course)
 
 ---
 
