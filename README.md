@@ -1,8 +1,8 @@
 # Hi, I'm Hadayatul Islam 👋
 
 🎓 MSc Internet & Multimedia Engineering — Università degli Studi di Genova, Italy  
-🎓 BSc Electronics & Telecommunication Engineering — University of Liberal Arts Bangladesh, Dhaka 
-🌐 Network & Infrastructure Engineer | CCNA Certified  
+🎓 BSc Electronics & Telecommunication Engineering — University of Liberal Arts Bangladesh, Dhaka     
+🌐Network & Infrastructure Engineer | CCNA Certified  
 📍 Genova, Italy
 
 ---
