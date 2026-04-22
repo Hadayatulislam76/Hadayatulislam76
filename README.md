@@ -1,6 +1,6 @@
 # Hi, I'm Hadayatul Islam 👋
 
-🎓 MSc Internet & Multimedia Engineering — Università di Genova, Italy  
+🎓 MSc Internet & Multimedia Engineering — Università degli Studi di Genova, Italy  
 🌐 Network & Infrastructure Engineer | CCNA Certified  
 📍 Genova, Italy
 
