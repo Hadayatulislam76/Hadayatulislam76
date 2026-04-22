@@ -1,6 +1,7 @@
 # Hi, I'm Hadayatul Islam 👋
 
 🎓 MSc Internet & Multimedia Engineering — Università degli Studi di Genova, Italy  
+🎓 BSc Electronics & Telecommunication Engineering — University of Liberal Arts Bangladesh, Dhaka
 🌐 Network & Infrastructure Engineer | CCNA Certified  
 📍 Genova, Italy
 
@@ -28,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 🇮🇹 [Italian Anki Flashcard Generator](https://github.com/Hadayatulislam76/italian-anki-flashcard-generator)
+### [Italian Anki Flashcard Generator](https://github.com/Hadayatulislam76/italian-anki-flashcard-generator)
 Python automation tool to generate Anki flashcards for Italian vocabulary learning.  
 Uses AnkiConnect API · Structured input format · Tense + Bangla translation support
 
