@@ -36,5 +36,5 @@ Uses AnkiConnect API · Structured input format · Tense + Bangla translation su
 
 ## 📫 Contact
 
-[![LinkedIn](https://www.linkedin.com/in/hadayatul-islam-7367a2141/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
 [![Email](https://img.shields.io/badge/Email-hadayatulislam.sohag@gmail.com-red?style=flat&logo=gmail)](mailto:hadayatulislam.sohag@gmail.com)
