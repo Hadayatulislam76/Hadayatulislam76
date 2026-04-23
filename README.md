@@ -33,6 +33,9 @@
 Python automation tool to generate Anki flashcards for Italian vocabulary learning.  
 Uses AnkiConnect API · Structured input format · Tense + Bangla translation support
 
+### [AWS Static Website Hosting](https://github.com/Hadayatulislam76/aws-project-1-static-website)
+Deployed a static website using Amazon S3 and CloudFront with HTTPS enabled.  
+S3 static hosting · CloudFront CDN · HTTPS (SSL) · Cache invalidation · GitHub deployment workflow
 ---
 
 ## 📫 Contact
