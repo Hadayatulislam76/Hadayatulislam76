@@ -37,6 +37,10 @@ Uses AnkiConnect API · Structured input format · Tense + Bangla translation su
 Built and deployed a static website on AWS using S3 and CloudFront with secure HTTPS delivery.  
 Amazon S3 · CloudFront CDN · HTTPS (SSL) · Cache invalidation · GitHub workflow
 
+### [AWS Two-Tier Web Application](https://github.com/Hadayatulislam76/aws-project-2-two-tier-web-app)
+Built a scalable two-tier web application on AWS with custom networking, load balancing, and multi-AZ architecture.  
+Amazon VPC · EC2 · ALB · Multi-AZ Design · Target Groups · IAM Roles · Systems Manager
+
 ---
 
 ## 📫 Contact
